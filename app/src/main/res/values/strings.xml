@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="api_url">https://api.themoviedb.org/3/</string>
+    <string name="img_url">http://image.tmdb.org/t/p/w185</string>
+    <string name="api_key">f011de89bfeb05d36085a034316920d6</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
